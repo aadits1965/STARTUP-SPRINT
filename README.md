@@ -5,7 +5,7 @@ A tech-driven platform that bridges the gap between organic farmers and consumer
 
 [![Figma Prototype](https://img.shields.io/badge/Prototype-Figma-blue)](https://www.figma.com/proto/IV33ZQUEOkCbyyr4DUkSKr/Startup-Sprint?page-id=0%3A1&node-id=636-191&viewport=620%2C268%2C0.21&t=y5bbSzl2XzW83S4W-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=636%3A154)
 [![Documentation](https://img.shields.io/badge/Docs-Full%20Sprint-blueviolet)](https://drive.google.com/drive/folders/1LzzIge3VejGbpFmTsMnwjOtaCilE1-Po)
-[![Feedback](https://cdn.pixabay.com/photo/2023/02/22/05/14/icon-7805708_1280.png)](https://drive.google.com/drive/folders/1LRW9Lxdjm0d0BdOxCpx9-lEjiGc2HtKF?usp=sharing)
+[![Feedback]](https://drive.google.com/drive/folders/1LRW9Lxdjm0d0BdOxCpx9-lEjiGc2HtKF?usp=sharing)
 
 ---
 
